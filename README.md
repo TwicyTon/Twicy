@@ -65,18 +65,6 @@ Twicy.deposit()
             → reward 💎 to USER
 ```
 
-#### Deposit with referral id
-```
-Twicy.depositWithReferralId()
-  _dispatchReferrerAddress()
-    → 0.2💎 to TwicyStorage.dispatchReferrerAddress()
-      → +0.1💎 to Twicy.onReceiveReferrerAddress()
-        → reward 💎 to REFERRER
-        _depositWithReferralBonus() or _depositWithoutReferralBonus()
-          _deposit()
-             
-          ... same as simple deposit
-```
 
 ### Deploy
 #### 1. Compile TwicyStorage
