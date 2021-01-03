@@ -5,44 +5,23 @@
 
 ## Address
 ```sh
-0:22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922
+0:05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0
 ```
-* [ton.live](https://ton.live/accounts/accountDetails?id=0%3A22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922)
-* [net.ton.live](https://net.ton.live/accounts/accountDetails?id=0%3A22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922)
+* [ton.live](https://ton.live/accounts/accountDetails?id=0%05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0)
+
 
 ## How to play
 ![How to play x2](_README/how-to-play-x2.png)
 * Send 10💎 to smart-contract
-  * If you use [Surf](https://ton.surf/) on mobile use this link [ton://transfer/0:22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922?amount=10000000000](ton://transfer/0:22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922?amount=10000000000). If link not clickable then sorry. Github parser has not yet learned how to make links for the Free TON
+  * If you use [Surf](https://ton.surf/) on mobile use this link [ton://transfer/0:05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0?amount=10000000000](ton://transfer/0:05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0?amount=10000000000). If link not clickable then sorry. Github parser has not yet learned how to make links for the Free TON
   * More than 10💎 and less than 10💎 are not acceptable
 * Get an answer and wait your turn
 * Get 20💎
 
-## How to get x2.2
-![How to play +5%](_README/how-to-play-x2.1.png)
-* Send 10💎 to smart-contract
-  * Get a referral ID from another player
-  * Write referral ID in the comment field
-* Get an answer and wait your turn
-* Get 21💎
-
-Own referral ID do not give you bonus multiplier
-
-## Earn more — become referrer
-![How to play referral](_README/how-to-play-referral.png)
- * Send 10💎 to smart-contract
- * Receive referral ID in answer
- * Invite other users to the game. Ask them to make a deposit and input the referral ID in the comment to the transfer
- * You will get 0.5💎 from every 10💎 deposits of your referrals
- 
-You can use this links to invite users pay via mobile surf. Replace **0x0** at the end of the link to your referral ID
-ton://transfer/0:22ef8de60d44fd929479d41e7b6f52f25d8de1c9dd02f86f2d175d9ab4dbe922?amount=10000000000&text=**0x0**
-
 ## Economics
 ![Diagramm](_README/diagramm.png)
-* **90%** - 9💎 from every 10💎 - payouts to participants
+* **95%** - 9💎 from every 10💎 - payouts to participants
 * **5%** - 0.5💎 from every 10💎 - developers reward and fee for smart-contracts
-* **5%** - 0.5💎 from every 10💎 - referrer reward if user set referral ID. If referral ID doesn't set, then part pay outs to participants
  
 ## How it works
 ![Rules](_README/rules.png)
