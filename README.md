@@ -7,7 +7,7 @@
 ```sh
 0:05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0
 ```
-* [ton.live](https://ton.live/accounts/accountDetails?id=0%05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0)
+* [ton.live](https://ton.live/accounts/accountDetails?id=0%3A05f6a489d8df02f44707a7d7cf04e9b75c050fdb0b7a1f175a55144daf1f53e0)
 
 
 ## How to play
